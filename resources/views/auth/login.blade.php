@@ -57,11 +57,12 @@
                                     <input type="checkbox" class="custom-control-input" id="basic_checkbox_1">
                                     <label class="custom-control-label" for="basic_checkbox_1">Remember my preference</label>
                                 </div>
-                              </div>
-                              <div class="form-group">
-                                  <a href="#">Forgot Password?</a>
-                              </div>
-                          </div>
+                            </div>
+                            <div class="form-group">
+                                <a href="#">Forgot Password?</a>
+                            </div>
+                        </div>
+                        <p>Admin: Mobile - 09199406146 | Password - password</p>
                           <div class="text-center">
                               <button type="submit" class="btn btn-warning btn-block">Sign Me In</button>
                           </div>
