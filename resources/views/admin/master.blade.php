@@ -121,7 +121,7 @@
 
         <!-- select 2 plugin -->
         <script src="/assets/libs/select2/js/select2.min.js"></script>
-        <script src="/assets/libs/apexCharts/apexcharts.min.js"></script>
+        <script src="/assets/libs/apexcharts/apexcharts.min.js"></script>
 
         <script src="/assets/libs/dropify/js/dropify.js"></script>
         <!-- init js -->
